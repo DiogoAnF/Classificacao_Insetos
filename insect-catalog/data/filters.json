@@ -1,0 +1,57 @@
+{
+  "filters": {
+    "type": {
+      "name": "Tipo de Inseto",
+      "options": [
+        "Todos",
+        "Borboleta",
+        "Besouro",
+        "Abelha",
+        "Formiga",
+        "Libélula",
+        "Gafanhoto",
+        "Joaninha",
+        "Mosquito"
+      ]
+    },
+    "habitat": {
+      "name": "Habitat",
+      "options": [
+        "Todos",
+        "Jardim",
+        "Floresta",
+        "Aquático",
+        "Urbano",
+        "Campo",
+        "Montanha"
+      ]
+    },
+    "size": {
+      "name": "Tamanho",
+      "options": [
+        "Todos",
+        "Muito Pequeno (< 5mm)",
+        "Pequeno (5-15mm)",
+        "Médio (15-30mm)",
+        "Grande (30-50mm)",
+        "Muito Grande (> 50mm)"
+      ]
+    },
+    "color": {
+      "name": "Cor Predominante",
+      "options": [
+        "Todos",
+        "Vermelho",
+        "Azul",
+        "Verde",
+        "Amarelo",
+        "Laranja",
+        "Preto",
+        "Branco",
+        "Marrom",
+        "Multicolorido"
+      ]
+    }
+  }
+}
+

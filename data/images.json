@@ -1,111 +1,93 @@
 [
   {
-    "id": "butterfly_colorful",
-    "src": "images/butterfly_colorful.webp",
-    "alt": "Borboleta colorida",
-    "type": "Borboleta",
-    "habitat": "Jardim",
-    "size": "Médio (15-30mm)",
-    "color": "Multicolorido"
+    "id": "besouro_coleoptera",
+    "src": "images/besouro_coleoptera.webp",
+    "alt": "besouro_coleoptera",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "butterfly_garden",
-    "src": "images/butterfly_garden.jpg",
-    "alt": "Borboleta em jardim",
-    "type": "Borboleta",
-    "habitat": "Jardim",
-    "size": "Médio (15-30mm)",
-    "color": "Amarelo"
+    "id": "blattaria_blattidae",
+    "src": "images/blattaria_blattidae.jpg",
+    "alt": "blattaria_blattidae",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "butterfly_flower",
-    "src": "images/butterfly_flower.jpg",
-    "alt": "Borboleta em flor",
-    "type": "Borboleta",
-    "habitat": "Jardim",
-    "size": "Médio (15-30mm)",
-    "color": "Laranja"
+    "id": "coleoptera_scarabaeidae",
+    "src": "images/coleoptera_scarabaeidae.jpg",
+    "alt": "coleoptera scarabaeidae",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "beetle_colorful",
-    "src": "images/beetle_colorful.jpg",
-    "alt": "Besouro colorido",
-    "type": "Besouro",
-    "habitat": "Floresta",
-    "size": "Pequeno (5-15mm)",
-    "color": "Verde"
+    "id": "coleoptera_buprestidae",
+    "src": "images/coleoptera_buprestidae.jpg",
+    "alt": "coleoptera_buprestidae",
+    "type": "",
+    "habitat": "",
+    "size": " ",
+    "color": ""
   },
   {
-    "id": "beetle_forest",
-    "src": "images/beetle_forest.jpg",
-    "alt": "Besouro na floresta",
-    "type": "Besouro",
-    "habitat": "Floresta",
-    "size": "Médio (15-30mm)",
-    "color": "Preto"
+    "id": "dermaptera_forficulidae",
+    "src": "images/dermaptera_forficulidae.jpg",
+    "alt": "dermaptera_forficulidae",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "beetle_large",
-    "src": "images/beetle_large.jpg",
-    "alt": "Besouro grande",
-    "type": "Besouro",
-    "habitat": "Floresta",
-    "size": "Muito Grande (> 50mm)",
-    "color": "Marrom"
+    "id": "diptera_tabanidae",
+    "src": "images/diptera_tabanidae.jpg",
+    "alt": "diptera_tabanidae",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "bee_flower",
-    "src": "images/bee_flower.jpg",
-    "alt": "Abelha em flor",
-    "type": "Abelha",
-    "habitat": "Jardim",
-    "size": "Pequeno (5-15mm)",
-    "color": "Amarelo"
+    "id": "lepidoptera_nynphalidae",
+    "src": "images/lepidoptera_nynphalidae.jpg",
+    "alt": "lepidoptera_nynphalidae",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "bee_pollinating",
-    "src": "images/bee_pollinating.jpg",
-    "alt": "Abelha polinizando",
-    "type": "Abelha",
-    "habitat": "Jardim",
-    "size": "Pequeno (5-15mm)",
-    "color": "Amarelo"
+    "id": "libelula_odonata",
+    "src": "images/libelula_odonata.jpg",
+    "alt": "libelula_odonata",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   },
   {
-    "id": "bee_garden",
-    "src": "images/bee_garden.jpg",
-    "alt": "Abelha no jardim",
-    "type": "Abelha",
-    "habitat": "Jardim",
-    "size": "Pequeno (5-15mm)",
-    "color": "Amarelo"
+    "id": "montoda_mantidae",
+    "src": "images/montoda_mantidae.jpg",
+    "alt": "montoda_mantidae",
+    "type": "",
+    "habitat": "",
+    "size": " ",
+    "color": ""
   },
   {
-    "id": "ant_garden",
-    "src": "images/ant_garden.jpg",
-    "alt": "Formiga no jardim",
-    "type": "Formiga",
-    "habitat": "Jardim",
-    "size": "Muito Pequeno (< 5mm)",
-    "color": "Preto"
-  },
-  {
-    "id": "ant_working",
-    "src": "images/ant_working.jpg",
-    "alt": "Formiga trabalhando",
-    "type": "Formiga",
-    "habitat": "Urbano",
-    "size": "Muito Pequeno (< 5mm)",
-    "color": "Marrom"
-  },
-  {
-    "id": "ant_small",
-    "src": "images/ant_small.jpg",
-    "alt": "Formiga pequena",
-    "type": "Formiga",
-    "habitat": "Urbano",
-    "size": "Muito Pequeno (< 5mm)",
-    "color": "Preto"
+    "id": "turquoise_shield_bug",
+    "src": "images/turquoise_shield_bug.jpg",
+    "alt": "turquoise_shield_bug",
+    "type": "",
+    "habitat": "",
+    "size": "",
+    "color": ""
   }
 ]
 

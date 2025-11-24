@@ -207,21 +207,29 @@ header {
 }
 
 /* Filter Badge Colors */
-.badge-type {
+.badge-ordem {
     background-color: var(--primary-color);
 }
 
-.badge-habitat {
+.badge-aparelho {
     background-color: var(--success-color);
 }
 
-.badge-size {
+.badge-asas {
     background-color: var(--info-color);
 }
 
-.badge-color {
+.badge-pernas {
     background-color: var(--warning-color);
     color: var(--dark-color);
+}
+
+.badge-cercos {
+    background-color: var(--danger-color);
+}
+
+.badge-antenas {
+    background-color: #6c757d;
 }
 
 /* Responsive Adjustments */

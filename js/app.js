@@ -120,14 +120,18 @@ class InsectCatalog {
 
     matchesFilter(insect, filterType, value) {
         switch(filterType) {
-            case 'type':
-                return insect.type === value;
-            case 'habitat':
-                return insect.habitat === value;
-            case 'size':
-                return insect.size === value;
-            case 'color':
-                return insect.color === value;
+            case 'ordem':
+                return insect.ordem === value;
+            case 'aparelho_bucal':
+                return insect.aparelho_bucal === value;
+            case 'asas':
+                return insect.asas === value;
+            case 'pernas':
+                return insect.pernas === value;
+            case 'cercos':
+                return insect.cercos === value;
+            case 'antenas':
+                return insect.antenas === value;
             default:
                 return true;
         }
@@ -201,17 +205,23 @@ class InsectCatalog {
                     <div class="card-body insect-info">
                         <h5 class="card-title fw-bold text-primary">${insect.alt}</h5>
                         <div class="mb-3">
-                            <span class="badge insect-badge badge-type me-1">
-                                <i class="bi bi-bug me-1"></i>${insect.type}
+                            <span class="badge insect-badge badge-ordem me-1">
+                                <i class="bi bi-bug me-1"></i>${insect.ordem}
                             </span>
-                            <span class="badge insect-badge badge-habitat me-1">
-                                <i class="bi bi-geo-alt me-1"></i>${insect.habitat}
+                            <span class="badge insect-badge badge-aparelho me-1">
+                                <i class="bi bi-mouth me-1"></i>${insect.aparelho_bucal}
                             </span>
-                            <span class="badge insect-badge badge-size me-1">
-                                <i class="bi bi-rulers me-1"></i>${insect.size}
+                            <span class="badge insect-badge badge-asas me-1">
+                                <i class="bi bi-airplane me-1"></i>${insect.asas}
                             </span>
-                            <span class="badge insect-badge badge-color">
-                                <i class="bi bi-palette me-1"></i>${insect.color}
+                            <span class="badge insect-badge badge-pernas me-1">
+                                <i class="bi bi-person-walking me-1"></i>${insect.pernas}
+                            </span>
+                            <span class="badge insect-badge badge-cercos me-1">
+                                <i class="bi bi-arrow-up-right me-1"></i>${insect.cercos}
+                            </span>
+                            <span class="badge insect-badge badge-antenas">
+                                <i class="bi bi-broadcast me-1"></i>${insect.antenas}
                             </span>
                         </div>
                         <button class="btn btn-outline-primary btn-sm" onclick="app.showInsectDetails('${insect.id}')">
@@ -257,16 +267,22 @@ class InsectCatalog {
                                 <h6 class="fw-bold mb-3">Características:</h6>
                                 <ul class="list-unstyled">
                                     <li class="mb-2">
-                                        <strong><i class="bi bi-bug me-2 text-primary"></i>Tipo:</strong> ${insect.type}
+                                        <strong><i class="bi bi-bug me-2 text-primary"></i>Ordem:</strong> ${insect.ordem}
                                     </li>
                                     <li class="mb-2">
-                                        <strong><i class="bi bi-geo-alt me-2 text-success"></i>Habitat:</strong> ${insect.habitat}
+                                        <strong><i class="bi bi-mouth me-2 text-success"></i>Aparelho Bucal:</strong> ${insect.aparelho_bucal}
                                     </li>
                                     <li class="mb-2">
-                                        <strong><i class="bi bi-rulers me-2 text-info"></i>Tamanho:</strong> ${insect.size}
+                                        <strong><i class="bi bi-airplane me-2 text-info"></i>Asas:</strong> ${insect.asas}
                                     </li>
                                     <li class="mb-2">
-                                        <strong><i class="bi bi-palette me-2 text-warning"></i>Cor:</strong> ${insect.color}
+                                        <strong><i class="bi bi-person-walking me-2 text-warning"></i>Pernas:</strong> ${insect.pernas}
+                                    </li>
+                                    <li class="mb-2">
+                                        <strong><i class="bi bi-arrow-up-right me-2 text-danger"></i>Cercos:</strong> ${insect.cercos}
+                                    </li>
+                                    <li class="mb-2">
+                                        <strong><i class="bi bi-broadcast me-2 text-secondary"></i>Antenas:</strong> ${insect.antenas}
                                     </li>
                                 </ul>
                             </div>

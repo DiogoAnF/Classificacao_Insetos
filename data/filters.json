@@ -1,55 +1,73 @@
 {
   "filters": {
-    "type": {
-      "name": "Tipo de Inseto",
+    "ordem": {
+      "name": "Ordem",
       "options": [
         "Todos",
-        "Borboleta",
-        "Besouro",
-        "Abelha",
-        "Formiga",
-        "Libélula",
-        "Gafanhoto",
-        "Joaninha",
-        "Mosquito"
+        "Coleoptera",
+        "Blattodea",
+        "Dermaptera",
+        "Diptera",
+        "Lepidoptera",
+        "Odonata",
+        "Mantodea",
+        "Hemiptera"
       ]
     },
-    "habitat": {
-      "name": "Habitat",
+    "aparelho_bucal": {
+      "name": "Aparelho Bucal",
       "options": [
         "Todos",
-        "Jardim",
-        "Floresta",
-        "Aquático",
-        "Urbano",
-        "Campo",
-        "Montanha"
+        "Mastigador",
+        "Sugador",
+        "Picador-Sugador",
+        "Lambedor",
+        "Raspador-Sugador"
       ]
     },
-    "size": {
-      "name": "Tamanho",
+    "asas": {
+      "name": "Tipos de Asas",
       "options": [
         "Todos",
-        "Muito Pequeno (< 5mm)",
-        "Pequeno (5-15mm)",
-        "Médio (15-30mm)",
-        "Grande (30-50mm)",
-        "Muito Grande (> 50mm)"
+        "Élitros",
+        "Tégminas",
+        "Membranosas",
+        "Hemiélitros",
+        "Escamosas",
+        "Coriáceas"
       ]
     },
-    "color": {
-      "name": "Cor Predominante",
+    "pernas": {
+      "name": "Tipos de Pernas",
       "options": [
         "Todos",
-        "Vermelho",
-        "Azul",
-        "Verde",
-        "Amarelo",
-        "Laranja",
-        "Preto",
-        "Branco",
-        "Marrom",
-        "Multicolorido"
+        "Ambulatórias",
+        "Raptatórias",
+        "Saltatórias",
+        "Natatórias",
+        "Fossoriais",
+        "Cursoriais"
+      ]
+    },
+    "cercos": {
+      "name": "Cercos",
+      "options": [
+        "Todos",
+        "Presentes",
+        "Ausentes"
+      ]
+    },
+    "antenas": {
+      "name": "Tipos de Antenas",
+      "options": [
+        "Todos",
+        "Filiformes",
+        "Clavadas",
+        "Lameladas",
+        "Moniliformes",
+        "Pectinadas",
+        "Setáceas",
+        "Geniculadas"
       ]
     }
   }

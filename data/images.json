@@ -1,93 +1,124 @@
 [
   {
     "id": "besouro_coleoptera",
-    "src": "images/besouro_coleoptera.webp",
-    "alt": "besouro_coleoptera",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "src": "images/besouro_coleoptera.jpg",
+    "alt": "Besouro da Ordem Coleoptera",
+    "ordem": "Coleoptera",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Élitros",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Clavadas"
   },
   {
     "id": "blattaria_blattidae",
     "src": "images/blattaria_blattidae.jpg",
-    "alt": "blattaria_blattidae",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Barata da Família Blattidae",
+    "ordem": "Blattodea",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Tégminas",
+    "pernas": "Cursoriais",
+    "cercos": "Presentes",
+    "antenas": "Filiformes"
   },
   {
     "id": "coleoptera_scarabaeidae",
     "src": "images/coleoptera_scarabaeidae.jpg",
-    "alt": "coleoptera scarabaeidae",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Besouro da Família Scarabaeidae",
+    "ordem": "Coleoptera",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Élitros",
+    "pernas": "Fossoriais",
+    "cercos": "Ausentes",
+    "antenas": "Lameladas"
   },
   {
     "id": "coleoptera_buprestidae",
     "src": "images/coleoptera_buprestidae.jpg",
-    "alt": "coleoptera_buprestidae",
-    "type": "",
-    "habitat": "",
-    "size": " ",
-    "color": ""
+    "alt": "Besouro da Família Buprestidae",
+    "ordem": "Coleoptera",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Élitros",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Filiformes"
   },
   {
     "id": "dermaptera_forficulidae",
     "src": "images/dermaptera_forficulidae.jpg",
-    "alt": "dermaptera_forficulidae",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Tesourinha da Família Forficulidae",
+    "ordem": "Dermaptera",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Coriáceas",
+    "pernas": "Ambulatórias",
+    "cercos": "Presentes",
+    "antenas": "Filiformes"
   },
   {
     "id": "diptera_tabanidae",
     "src": "images/diptera_tabanidae.jpg",
-    "alt": "diptera_tabanidae",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Mosca da Família Tabanidae",
+    "ordem": "Diptera",
+    "aparelho_bucal": "Picador-Sugador",
+    "asas": "Membranosas",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Setáceas"
+  },
+  {
+    "id": "diptera_tabanidae_2",
+    "src": "images/diptera_tabanidae_2.jpg",
+    "alt": "Mosca da Família Tabanidae (Espécie 2)",
+    "ordem": "Diptera",
+    "aparelho_bucal": "Picador-Sugador",
+    "asas": "Membranosas",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Setáceas"
   },
   {
     "id": "lepidoptera_nynphalidae",
     "src": "images/lepidoptera_nynphalidae.jpg",
-    "alt": "lepidoptera_nynphalidae",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Borboleta da Família Nymphalidae",
+    "ordem": "Lepidoptera",
+    "aparelho_bucal": "Sugador",
+    "asas": "Escamosas",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Clavadas"
   },
   {
     "id": "libelula_odonata",
     "src": "images/libelula_odonata.jpg",
-    "alt": "libelula_odonata",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Libélula da Ordem Odonata",
+    "ordem": "Odonata",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Membranosas",
+    "pernas": "Raptatórias",
+    "cercos": "Ausentes",
+    "antenas": "Setáceas"
   },
   {
     "id": "montoda_mantidae",
     "src": "images/montoda_mantidae.jpg",
-    "alt": "montoda_mantidae",
-    "type": "",
-    "habitat": "",
-    "size": " ",
-    "color": ""
+    "alt": "Louva-a-deus da Família Mantidae",
+    "ordem": "Mantodea",
+    "aparelho_bucal": "Mastigador",
+    "asas": "Membranosas",
+    "pernas": "Raptatórias",
+    "cercos": "Presentes",
+    "antenas": "Filiformes"
   },
   {
     "id": "turquoise_shield_bug",
     "src": "images/turquoise_shield_bug.jpg",
-    "alt": "turquoise_shield_bug",
-    "type": "",
-    "habitat": "",
-    "size": "",
-    "color": ""
+    "alt": "Percevejo Escudo Turquesa",
+    "ordem": "Hemiptera",
+    "aparelho_bucal": "Picador-Sugador",
+    "asas": "Hemiélitros",
+    "pernas": "Ambulatórias",
+    "cercos": "Ausentes",
+    "antenas": "Filiformes"
   }
 ]
 

@@ -54,6 +54,26 @@ header {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
 }
 
+.info-section {
+  margin: 2rem auto;
+  padding: 1.5rem;
+  max-width: 900px;
+  background-color: #dbd0b1;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.info-section h2, .info-section h3 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.info-section p, .info-section ul {
+  color: #333;
+  line-height: 1.6;
+}
+
+
 /* Card Styles */
 .card {
     border-radius: 15px;
